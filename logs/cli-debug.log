@@ -1,0 +1,1082 @@
+2022-08-19 13:40:38 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 13:40:38 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 13:40:38 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 13:40:38 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 14:37:34 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 14:37:34 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 14:37:34 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 14:37:34 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:20:52 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:20:52 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:20:52 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:20:52 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:27:52 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:27:52 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:27:52 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:27:52 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:28:03 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:28:03 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:28:03 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:28:03 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:28:14 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:28:14 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:28:14 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:28:14 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:30:00 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:30:00 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:30:00 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:30:00 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Bake\Shell\BakeShell::getOptionParser() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 295
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:30:00 Notice: Deprecated (8192): array_key_exists(): Using array_key_exists() on objects is deprecated. Use isset() or property_exists() instead in [C:\xampp\htdocs\cakephp\vendor\twig\twig\src\Template.php, line 607]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+Twig\Template::getAttribute() - ROOT\vendor\twig\twig\src\Template.php, line 607
+__TwigTemplate_9d32fe876713370bf90ad1801f8763dc36a11fb1abeac307ad41324b9c947ffb::doDisplay() - ROOT\tmp\cache\twigView\c4\c456a317e1139ef635a9b32dd5ddd87057e80f8cccb79e4aea2b2846f4410c24.php, line 70
+Twig\Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\src\Template.php, line 455
+Twig\Template::display() - ROOT\vendor\twig\twig\src\Template.php, line 422
+Twig\Template::render() - ROOT\vendor\twig\twig\src\Template.php, line 434
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 91
+Bake\Shell\Task\TemplateTask::getContent() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 386
+Bake\Shell\Task\TemplateTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 146
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 279
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 65
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 280
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 518
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:30:00 Notice: Deprecated (8192): array_key_exists(): Using array_key_exists() on objects is deprecated. Use isset() or property_exists() instead in [C:\xampp\htdocs\cakephp\vendor\twig\twig\src\Template.php, line 607]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+Twig\Template::getAttribute() - ROOT\vendor\twig\twig\src\Template.php, line 607
+__TwigTemplate_bf1d8ee4fb994df3cdb1a598cd754d018667cc3a3350c8bb68e09da3b6228d13::doDisplay() - ROOT\tmp\cache\twigView\dc\dc692aeb3c01a6aff78e7bf0d296407951c6736ba6bafa02e4ac82deebd00092.php, line 96
+Twig\Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\src\Template.php, line 455
+Twig\Template::display() - ROOT\vendor\twig\twig\src\Template.php, line 422
+Twig\Template::render() - ROOT\vendor\twig\twig\src\Template.php, line 434
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 91
+Bake\Shell\Task\TemplateTask::getContent() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 386
+Bake\Shell\Task\TemplateTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 146
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 279
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 65
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 280
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 518
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:30:00 Notice: Deprecated (8192): array_key_exists(): Using array_key_exists() on objects is deprecated. Use isset() or property_exists() instead in [C:\xampp\htdocs\cakephp\vendor\twig\twig\src\Template.php, line 607]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+Twig\Template::getAttribute() - ROOT\vendor\twig\twig\src\Template.php, line 607
+__TwigTemplate_37760f14eb0418ae8d3a4060e095e663274be117984c26e29e52d1b8a989bc48::doDisplay() - ROOT\tmp\cache\twigView\a1\a160c2e016cbb5ecf41357eec60091d984b0086bcd0820d77c7d15190b97f4ad.php, line 78
+Twig\Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\src\Template.php, line 455
+Twig\Template::display() - ROOT\vendor\twig\twig\src\Template.php, line 422
+Twig\Template::render() - ROOT\vendor\twig\twig\src\Template.php, line 434
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Cake\View\View::_renderElement() - CORE\src\View\View.php, line 1855
+Cake\View\View::element() - CORE\src\View\View.php, line 783
+__TwigTemplate_9af9ff7558907e381328625d2880798212bc645585541c93e9a0f63e20ec458b::doDisplay() - ROOT\tmp\cache\twigView\35\35843d409e95c4551ef98ae3436b20e83f0365ed5a289d1c9760b71cc1284b65.php, line 49
+Twig\Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\src\Template.php, line 455
+Twig\Template::display() - ROOT\vendor\twig\twig\src\Template.php, line 422
+Twig\Template::render() - ROOT\vendor\twig\twig\src\Template.php, line 434
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 91
+Bake\Shell\Task\TemplateTask::getContent() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 386
+Bake\Shell\Task\TemplateTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 146
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 279
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 65
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 280
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 518
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-19 16:30:00 Notice: Deprecated (8192): array_key_exists(): Using array_key_exists() on objects is deprecated. Use isset() or property_exists() instead in [C:\xampp\htdocs\cakephp\vendor\twig\twig\src\Template.php, line 607]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+Twig\Template::getAttribute() - ROOT\vendor\twig\twig\src\Template.php, line 607
+__TwigTemplate_37760f14eb0418ae8d3a4060e095e663274be117984c26e29e52d1b8a989bc48::doDisplay() - ROOT\tmp\cache\twigView\a1\a160c2e016cbb5ecf41357eec60091d984b0086bcd0820d77c7d15190b97f4ad.php, line 78
+Twig\Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\src\Template.php, line 455
+Twig\Template::display() - ROOT\vendor\twig\twig\src\Template.php, line 422
+Twig\Template::render() - ROOT\vendor\twig\twig\src\Template.php, line 434
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Cake\View\View::_renderElement() - CORE\src\View\View.php, line 1855
+Cake\View\View::element() - CORE\src\View\View.php, line 783
+__TwigTemplate_194d36b482ef5ad157d31b3379cbd01c78070f680150fc8677f945f6870e8517::doDisplay() - ROOT\tmp\cache\twigView\01\0132c75eb71f1dbd591b3f8f73d51507d07cc8e16f39ca9556976bef83cc75b6.php, line 49
+Twig\Template::displayWithErrorHandling() - ROOT\vendor\twig\twig\src\Template.php, line 455
+Twig\Template::display() - ROOT\vendor\twig\twig\src\Template.php, line 422
+Twig\Template::render() - ROOT\vendor\twig\twig\src\Template.php, line 434
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT\vendor\wyrihaximus\twig-view\src\View\TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 91
+Bake\Shell\Task\TemplateTask::getContent() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 386
+Bake\Shell\Task\TemplateTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\TemplateTask.php, line 146
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 279
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 65
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 280
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 518
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-20 10:31:51 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-20 10:31:51 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-20 10:31:51 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-20 10:31:51 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-22 15:13:06 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-22 15:13:06 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-22 15:13:06 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-22 15:13:06 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-23 00:18:22 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-23 00:18:22 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-23 00:18:22 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-23 00:18:22 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 06:16:08 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 06:16:08 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 06:16:08 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 06:16:08 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 10:01:33 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 10:01:33 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 10:01:33 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 10:01:33 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 10:09:28 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 10:09:28 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 10:09:28 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-24 10:09:28 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-28 04:38:19 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-28 04:38:27 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-28 04:38:27 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-28 04:38:27 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-28 04:38:27 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-28 08:15:24 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Filesystem\Folder.php, line 599]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\CommandScanner::scanDir() - CORE\src\Console\CommandScanner.php, line 111
+Cake\Console\CommandScanner::scanCore() - CORE\src\Console\CommandScanner.php, line 42
+Cake\Console\CommandCollection::autoDiscover() - CORE\src\Console\CommandCollection.php, line 222
+Cake\Http\BaseApplication::console() - CORE\src\Http\BaseApplication.php, line 206
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 138
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-28 08:15:24 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-28 08:15:24 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1076]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2022-08-28 08:15:24 Notice: Deprecated (8192): Array and string offset access syntax with curly braces is deprecated in [C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\ConsoleOptionParser.php, line 1077]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 159
+include - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 444
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 322
+spl_autoload_call - [internal], line ??
+Cake\Console\Shell::getOptionParser() - CORE\src\Console\Shell.php, line 595
+Cake\Shell\ServerShell::getOptionParser() - CORE\src\Shell\ServerShell.php, line 160
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 486
+Cake\Console\CommandRunner::runShell() - CORE\src\Console\CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 162
+[main] - ROOT\bin\cake.php, line 12
+
+
+

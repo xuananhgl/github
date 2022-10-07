@@ -1,0 +1,7 @@
+2022-08-28 04:38:19 Error: [RuntimeException] Unknown command `cake serveeere`. Run `cake --help` to get the list of valid commands. in C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\CommandRunner.php on line 346
+Stack Trace:
+#0 C:\xampp\htdocs\cakephp\vendor\cakephp\cakephp\src\Console\CommandRunner.php(157): Cake\Console\CommandRunner->resolveName(Object(Cake\Console\CommandCollection), Object(Cake\Console\ConsoleIo), 'serveeere')
+#1 C:\xampp\htdocs\cakephp\bin\cake.php(12): Cake\Console\CommandRunner->run(Array)
+#2 {main}
+
+
